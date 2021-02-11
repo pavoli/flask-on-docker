@@ -34,4 +34,4 @@ services:
 volumes:
   postgres_data:
   static_volume:
-  media_volime:
+  media_volume:
